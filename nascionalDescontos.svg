@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="nascionalDescontos.svg"
+   inkscape:export-filename="500x500.png"
+   inkscape:export-xdpi="160"
+   inkscape:export-ydpi="160"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="1.4206783"
+     inkscape:cx="201.31229"
+     inkscape:cy="172.10089"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.661026;stroke-opacity:0.658667"
+       id="rect1"
+       width="300"
+       height="300"
+       x="-3.5527137e-14"
+       y="0" />
+    <g
+       id="g13"
+       sodipodi:insensitive="true"
+       inkscape:label="GRUPO DE CORES">
+      <rect
+         style="fill:#009c3b;fill-opacity:1;stroke-width:0.240987;stroke-opacity:0.658667"
+         id="rect10"
+         width="20"
+         height="20"
+         x="-212.74132"
+         y="45.984554" />
+      <rect
+         style="fill:#ffdf00;fill-opacity:1;stroke-width:0.217189;stroke-opacity:0.658667"
+         id="rect11"
+         width="20"
+         height="20"
+         x="-192.74132"
+         y="45.98457" />
+      <rect
+         style="fill:#002776;fill-opacity:1;stroke-width:0.21319;stroke-opacity:0.658667"
+         id="rect12"
+         width="20"
+         height="20"
+         x="-212.74132"
+         y="65.984573" />
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.21526;stroke-opacity:0.658667"
+         id="rect13"
+         width="20"
+         height="20"
+         x="-192.74132"
+         y="65.984573" />
+    </g>
+    <g
+       id="g20"
+       transform="matrix(1.839864,0,0,1.839864,-69.182925,-90.460999)"
+       inkscape:export-filename="Logo-ND.png"
+       inkscape:export-xdpi="68.279999"
+       inkscape:export-ydpi="68.279999">
+      <g
+         id="g19">
+        <path
+           d="m 132.81181,88.279862 v 84.830258 h 7.06183 c 10.23965,0 17.53688,-3.20725 21.89167,-9.62176 4.3548,-6.47333 6.53219,-17.44861 6.53219,-32.92579 0,-15.35948 -2.17739,-26.24648 -6.53219,-32.660965 -4.35479,-6.414494 -11.65202,-9.621743 -21.89167,-9.621743 z m -23.1699,-23.480594 h 25.02363 c 21.53857,0 37.04519,5.149251 46.51981,15.447757 9.47463,10.239654 14.21194,27.011505 14.21194,50.315545 0,23.3629 -4.73731,40.22305 -14.21194,50.58037 -9.47462,10.29851 -24.98124,15.44775 -46.51981,15.44775 h -25.02363 v -36.01534 -25.63032 z"
+           id="path14"
+           style="-inkscape-font-specification:'Monospace Bold';fill:#002776;fill-opacity:1;stroke-width:5.12458;stroke-opacity:0.658667"
+           aria-label="D"
+           sodipodi:nodetypes="ccscsssccscscscccc" />
+        <path
+           d="M 109.64191,196.59069 V 64.799268 h 20.77507 V 196.59069 Z"
+           id="path15"
+           style="-inkscape-font-specification:'Monospace Bold';display:inline;fill:#ffdf00;fill-opacity:1;stroke-width:5.12458;stroke-opacity:0.658667"
+           aria-label="N"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           d="M 42.862624,64.799268 H 70.845129 L 107.56665,160.57535 V 64.799268 h 20.77508 V 196.59069 H 102.71164 L 65.813573,100.81461 v 95.77608 H 42.862624 Z"
+           id="path16"
+           style="-inkscape-font-specification:'Monospace Bold';display:inline;fill:#009c3b;fill-opacity:1;stroke:none;stroke-width:0.518816;stroke-dasharray:none;stroke-opacity:1"
+           aria-label="N"
+           sodipodi:nodetypes="ccccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>
